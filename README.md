@@ -31,6 +31,12 @@ in the past year or so ive been learning to code.
 - set up the folder with libraries and files
 - rough designed the project on paper
 
+completed most of the layout of the webapp, 
+struggling to get the file name and size to show up 
+in the section created so taking a break for the
+night and going to do some research tomorrow at work,
+to beable to solve this part.
+
 
 
 ### Credits 
